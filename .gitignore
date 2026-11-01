@@ -1,0 +1,38 @@
+# Compiled Java Bytecode
+*.class
+bin/
+out/
+
+# IDE Configuration
+.idea/
+*.iml
+.vscode/
+
+# Redundant / Duplicate Lab Working Folders
+lab-*/
+lab-*
+
+# Standalone git backup
+.git_standalone/
+
+# VS Code Code-Runner temporary files
+tempCodeRunnerFile.java
+
+# Binary packages / archives
+*.jar
+*.war
+*.ear
+
+# Operating System files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary files
+*.tmp
+*~
+
+# Minibank runtime data
+Minibank/data/
+Minibank/logs/*.log
+

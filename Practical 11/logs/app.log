@@ -1,0 +1,6 @@
+2026-10-28 08:00:01 INFO Application started successfully
+2026-10-28 08:05:12 DEBUG Connection established to cache server
+2026-10-28 08:12:44 ERROR Connection timeout to payment gateway
+2026-10-28 08:15:00 INFO Retrying payment processing
+2026-10-28 08:15:05 ERROR Payment retry failed: 504 Gateway Timeout
+2026-10-28 08:20:00 INFO Service running normal

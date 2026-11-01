@@ -1,0 +1,4 @@
+2026-10-28 08:00:05 INFO Database pool initialized with 20 connections
+2026-10-28 08:10:20 WARN Query execution took longer than 500ms
+2026-10-28 08:12:45 ERROR Deadlock detected in transaction #419
+2026-10-28 08:30:10 INFO Database backup completed

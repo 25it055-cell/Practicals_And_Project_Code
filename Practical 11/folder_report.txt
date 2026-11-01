@@ -1,0 +1,24 @@
+================================================================================
+                          NIO FOLDER TREE REPORT                                
+================================================================================
+PATH / NAME                                   | TYPE       | SIZE (BYTES) | MODIFIED TIME      
+--------------------------------------------------------------------------------
+.                                             | DIR        | 0            | 2026-10-28 09:31:08
+accounts.ser                                  | FILE       | 231          | 2026-10-28 09:30:37
+FolderTreeReport.class                        | FILE       | 5525         | 2026-10-28 09:30:19
+FolderTreeReport.java                         | FILE       | 3765         | 2026-10-28 09:19:40
+LogAnalyzer.class                             | FILE       | 5133         | 2026-10-28 09:30:19
+LogAnalyzer.java                              | FILE       | 4289         | 2026-10-28 09:19:18
+logs                                          | DIR        | 0            | 2026-10-28 09:31:08
+logs\app.log                                  | FILE       | 362          | 2026-10-28 09:31:08
+logs\auth.log                                 | FILE       | 316          | 2026-10-28 09:31:08
+logs\database.log                             | FILE       | 254          | 2026-10-28 09:31:08
+SerializationDemo.class                       | FILE       | 3470         | 2026-10-28 09:30:19
+SerializationDemo.java                        | FILE       | 3878         | 2026-10-28 09:18:56
+UserAccount.class                             | FILE       | 1392         | 2026-10-28 09:30:19
+--------------------------------------------------------------------------------
+SUMMARY:
+  Total Files Scanned       : 11
+  Total Directories Scanned : 2
+  Total Combined File Size  : 28615 bytes (27.94 KB)
+================================================================================
